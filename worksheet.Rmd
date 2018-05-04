@@ -35,7 +35,7 @@ git log
 ```{bash}
 git add worksheet.Rmd
 git status
-git commit -m "some text commit"
+git commit -m "some more commit"
 ```
 
 ## Revert
