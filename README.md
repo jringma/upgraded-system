@@ -2,8 +2,12 @@
 
 ## about
 
+learn the things
+
 ## collaborators
 
 - Jeremy
+- Megan
+- Steph
 
-learn the things
+
