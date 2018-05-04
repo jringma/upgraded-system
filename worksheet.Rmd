@@ -51,8 +51,8 @@ git revert --no-edit ...
 ## Configure your clone
 
 ```{bash}
-git remote add origin ...
-git push
+git remote add origin https://github.com/jringma/upgraded-system.git
+git push -u origin master
 ```
 
 ```{bash}
