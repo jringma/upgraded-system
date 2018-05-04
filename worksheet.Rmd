@@ -1,8 +1,9 @@
 ---
 title: configure git and data shortcut
-editor_options: 
+editor_options: whoop whoop whoop
   chunk_output_type: inline
 ---
+
 
 # Git in the Shell
 
