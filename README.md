@@ -7,7 +7,6 @@ learn the things
 ## collaborators
 
 - Jeremy
-- Megan
-- Steph
+- Megan B
 
 
