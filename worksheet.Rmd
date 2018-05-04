@@ -11,17 +11,17 @@ git init
 ```
 
 ```{bash}
-git add ...
+git add worksheet.Rmd
 git status
 ```
 
 ```{bash}
-... -m "initial commit"
+git commit -m "initial commit"
 ```
 
 ```{bash}
-git config --global user.name ...
-git config --global user.email ...
+git config --global user.name "jeremy"
+git config --global user.email jeremy.ringma@gmail.com
 ```
 
 ## Checkout the Log
